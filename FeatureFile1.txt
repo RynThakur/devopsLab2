@@ -1,0 +1,2 @@
+this is the first feature of feature file 1
+this is second feature of feature file 1
