@@ -1,1 +1,2 @@
 this is the first feature added in file 2.
+this is the second feature added in file 2.
